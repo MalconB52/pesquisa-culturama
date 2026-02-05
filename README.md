@@ -8,8 +8,8 @@
 O **Culturama** é um projeto front-end que simula um formulário de pesquisa cultural completo. O objetivo foi **dominar a semântica HTML e a estilização CSS para formulários**, criando uma interface de coleta de dados acessível, visualmente organizada e que funciona perfeitamente em qualquer dispositivo, **sem o uso de JavaScript**.
 
 ## 🚀 Demonstração & Código
-- **🌐 Site Online:** [Link do Deploy na Vercel]
-- **📂 Código Fonte:** [https://github.com/MalconB52/pesquisa-culturama](https://github.com/MalconB52/pesquisa-culturama)
+- **🌐 Site Online:** (https://pesquisa-culturama-seven.vercel.app/)
+- **📂 Código Fonte:** (https://github.com/MalconB52/pesquisa-culturama)
 
 ## 🛠️ Tecnologias Utilizadas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
