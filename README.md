@@ -2,7 +2,8 @@
 
 **Um projeto focado em formulários HTML5, implementando uma página de questionário cultural com semântica robusta, estilização CSS avançada e design totalmente responsivo.**
 
-![Screenshot do Formulário Culturama](LINK_DA_SCREENSHOT_AQUI)
+<img width="1005" height="1276" alt="image" src="https://github.com/user-attachments/assets/a59d87ab-e4b2-40b0-b55e-da20a4587d16" />
+
 
 ## 📋 Sobre
 O **Culturama** é um projeto front-end que simula um formulário de pesquisa cultural completo. O objetivo foi **dominar a semântica HTML e a estilização CSS para formulários**, criando uma interface de coleta de dados acessível, visualmente organizada e que funciona perfeitamente em qualquer dispositivo, **sem o uso de JavaScript**.
